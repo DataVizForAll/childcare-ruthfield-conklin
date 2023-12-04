@@ -2,7 +2,6 @@
 DataVizForAll.org story template using modified Bootstrap
 
 ## Live view (replace with your own published link in Settings > Pages)
- https://nellieconklin.github.io/datastoryquiz/
-
+ https://nellieconklin.github.io/childcaredatastory/
 ## Instructions
 Read steps inside the `index.html` file
