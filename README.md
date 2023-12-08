@@ -1,7 +1,5 @@
-# dataviz-story-template
-DataVizForAll.org story template using modified Bootstrap
+# live view
+https://datavizforall.org/childcare-ruthfield-conklin/
 
-## Live view (replace with your own published link in Settings > Pages)
+## forked from original
  https://nellieconklin.github.io/childcaredatastory/
-## Instructions
-Read steps inside the `index.html` file
